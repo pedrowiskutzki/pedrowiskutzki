@@ -1,9 +1,14 @@
-## Ola! Eu sou Mario Lucas 🖐️
+##_Ola!_Eu_sou_Pedro_Wiskutzki 🖐️
+
+<div align="center">
+<img height="400em"  src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif%22/%3E
+</div>
+</br>
 
 <div align="center" >
-  <a href="https://github.com/MarioLucas0">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarioLucas0&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img   height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLucas0&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/Pedro_Wiskutzki">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pedro_Wiskutzki&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img   height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro_Wiskutzki0&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
   </br>
 </div>
@@ -31,8 +36,8 @@
 </div>
 
 <div align="center" style="display: inline-block">
-  <a href="https://www.instagram.com/m__lucaass/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mariolucas.2000@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/p__wiskutzki/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "wiskutzki@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mario-lucas-9b11a1151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
