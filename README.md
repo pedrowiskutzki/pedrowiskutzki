@@ -3,14 +3,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=414a4c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Wiskutzki;I%27m+24+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-  <div align="center">
+<img align="center" alt="Coding" width="500em"
+  src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif">
+ 
   <a href="https://github.com/pedrowiskutzki">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/> 
     <img   height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&hide_border=false&&layout=compact"/>
   </a>
   </br>
 </div>
-<div align="center" >
+
 
 <div align="center">
 <h2>Tecnologias que eu uso no meu dia</h2>
