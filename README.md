@@ -19,15 +19,15 @@
  </div>
  </br>
  <div>
-  <a href="https://github.com/pedrowiskutzki">
+  <a align="leaf" href="https://github.com/pedrowiskutzki">
     <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/> 
-    <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&hide_border=false&&layout=compact"/>
+    <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&hide_border=false&&layout=compact"/>
   </a>
   </br>
 </div>
 
 
-<h3 align="left">Idiomas e ferramentas:</h3>
+<h3 align="center">Idiomas e ferramentas:</h3>
 
 <div width="100%" align="center" >
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
