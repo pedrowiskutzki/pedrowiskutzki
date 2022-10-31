@@ -30,7 +30,9 @@
   </br>
 
 
-<h3 align="center">Idiomas e ferramentas:</h3>
+<div align="center">
+<h2>Tecnologias</h2>
+</div>
 
 <div width="100%" align="center" >
  </a>
