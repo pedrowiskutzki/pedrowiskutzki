@@ -21,10 +21,10 @@
  <div>
   <p align="left">
   <a href="https://github.com/pedrowiskutzki">
-    <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/> 
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/> 
     </p>
       <p align="right">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&hide_border=false&&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&hide_border=false&&layout=compact"/>
   </a>
   </br>
 </div>
