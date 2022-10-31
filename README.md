@@ -6,8 +6,8 @@
 <img align="right" alt="Coding" width="50%"
   src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif">
   
-  <p align="left"> <a href="https://twitter.com/MLucas022" target="blank"><img
-      src="https://img.shields.io/twitter/follow/MLucas022?logo=twitter&style=for-the-badge" alt="MLucas022" /></a> </p>
+  <p align="left"> <a href="" target="blank"><img
+      src="https://www.instagram.com/pedrowiskutzki/?next=%2F" alt="PedroWiskutzki" /></a> </p>
 
 - 🔭 I'm currently studying
 
@@ -15,11 +15,11 @@
 
 - 💬 Ask me about **react , MEARN**
 
-- 📫 How to reach me **mariolucas.2000@outlook.com**
+- 📫 How to reach me **wiskutzki@gmail.com**
  
   <a href="https://github.com/pedrowiskutzki">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/> 
-    <img   height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&hide_border=false&&layout=compact"/>
+    <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/> 
+    <img  align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&hide_border=false&&layout=compact"/>
   </a>
   </br>
 </div>
