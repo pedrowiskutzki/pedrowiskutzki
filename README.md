@@ -3,28 +3,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=414a4c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Wiskutzki;I%27m+24+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400"
-  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img
-    src="https://komarev.com/ghpvc/?username=MarioLucas0&label=Profile%20views&color=0e75b6&style=flat"
-    alt="mariolucas" /> </p>
-
-<p align="left"> <a href="https://twitter.com/MLucas022" target="blank"><img
-      src="https://img.shields.io/twitter/follow/MLucas022?logo=twitter&style=for-the-badge" alt="MLucas022" /></a> </p>
-
-<div align="center">
-<img height="400em"  src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif"
-</div>
-</br>
-</br>
-<div align="center" >
+  <div align="center">
   <a href="https://github.com/pedrowiskutzki">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/> 
     <img   height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&hide_border=false&&layout=compact"/>
   </a>
   </br>
 </div>
+<div align="center" >
 
 <div align="center">
 <h2>Tecnologias que eu uso no meu dia</h2>
