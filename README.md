@@ -3,9 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=414a4c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Wiskutzki;I%27m+24+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div>
-<img align="right" alt="Coding" width="50%"
+<img align="right" alt="Coding" width="300px"
   src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif">
-  
+  </div>
   <p align="left"> <a href="" target="blank"><img
       src="https://img.shields.io/instagram/follow/PedroWiskutzki?logo=instagram&style=for-the-badge" alt="PedroWiskutzki" /></a> </p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **wiskutzki@gmail.com**
 
-</div>
+
  </br>
  <div>
   <p>
