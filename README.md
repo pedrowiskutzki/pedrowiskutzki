@@ -1,7 +1,7 @@
 ##_Ola!_Eu_sou_Pedro_Wiskutzki 🖐️
 
 <div align="center">
-<img height="400em"  src="https://media4.giphy.com/media/UNlyeQrZq5ZsROl86R/giphy.gif?cid=ecf05e47ufuci45gmd5uuw0esba70qcgn7fyb6y66xtvy0oi&rid=giphy.gif&ct=g"
+<img height="400em"  src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif"
 </div>
 </br>
 </br>
