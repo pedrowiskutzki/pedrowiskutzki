@@ -19,18 +19,15 @@
 
 </div>
  </br>
-  </br>
-   </br>
  <div>
   <p>
+    <div align="center">
   <a href="https://github.com/pedrowiskutzki">
-    <img  height="120em" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/> 
-    </p>
-      <p>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&hide_border=false&&layout=compact"/>
+    <img  height="120em" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&count_private=false&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/> 
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&&include_all_commits=true&count_private=false"/>
   </a>
-  </br>
 </div>
+  </br>
 
 
 <h3 align="center">Idiomas e ferramentas:</h3>
