@@ -21,6 +21,7 @@
 
 
 <div align="center">
+  </br>
 <h2>Tecnologias</h2>
 <img src="https://icongr.am/devicon/java-original.svg?size=60&color=currentColor" alt="java"/>
 <img src="https://icongr.am/devicon/cplusplus-original.svg?size=60&color=currentColor alt="C++""/>
@@ -52,6 +53,43 @@
   <a href = "wiskutzki@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-wiskutzki-255a421a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+ </br>
+<div align="center">
+  <p>
+    <a href="https://coinmarketcap.com/">
+      <h1>My Cryptos</h1>
+    </a>
+  </p>
+   <a href="https://www.binance.com/pt-BR">
+      <img height="50" src="assets/crypto/BNB.png" loading="lazy"/>
+    </a>
+    <a href="https://www.algorand.com/">
+      <img height="50" src="assets/crypto/ALGO.png" loading="lazy"/>
+    </a>
+    <a href="https://crypto.com/">
+      <img height="50" src="assets/crypto/CRO.png" loading="lazy"/> 
+    </a>
+    <a href="https://api3.org/">
+      <img height="50" width="50" src="https://s2.coinmarketcap.com/static/img/coins/64x64/7737.png" loading="lazy"/>
+    </a>
+    <a href="https://fantom.foundation/">
+      <img height="50" src="assets/crypto/FTM.png" loading="lazy"/>
+    </a>
+    <a href="https://solana.com/">
+      <img height="50" src="assets/crypto/SOL.png" loading="lazy"/>
+    </a>
+    <a href="https://tether.to/en/">
+      <img height="50" src="assets/crypto/USDT.png" loading="lazy"/>
+    </a>
+   <a href="https://polygon.technology/">
+      <img height="50" src="assets/crypto/MATIC.png" loading="lazy"/>
+    </a>
+   <a href="https://www.avax.network/">
+      <img height="50" src="assets/crypto/AVAX.png" loading="lazy"/>
+    </a>
+</div>
+<br>
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
