@@ -15,7 +15,7 @@
 - 📫 How to reach me **wiskutzki@gmail.com**
 
 
-<img align="right" alt="Coding" width="350px"
+<img alt="Coding" width="350px"
   src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif">
   </div>
 
@@ -38,16 +38,12 @@
     <div  justify-content="row">
   <a href="https://github.com/pedrowiskutzki">
     <img width="42%" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&count_private=false&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/> 
-     <img width="42%" src="https://github-readme-stats.vercel.app/api?username={pedrowiskutzki}&theme=blue-green"/> 
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username={pedrowiskutzki}&theme=blue-green"/>
+     <img width="42%" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&theme=blue-green"/> 
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=blue-green"/>
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
-<div width="100%" align="center" >
- </a>
-</div>
-<br/>
 
 <div align="center">
 <h2>Minhas redes socias para contato</h2>
