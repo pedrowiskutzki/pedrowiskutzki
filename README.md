@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=414a4c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Wiskutzki;I%27m+24+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img alt="Coding" width="350"
+<img align="right" alt="Coding" width="350"
   src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif">
   </div>
   
@@ -37,8 +37,8 @@
  <div>
     <div  justify-content="row">
   <a href="https://github.com/pedrowiskutzki">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&count_private=false&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/> 
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&count_private=false&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/> 
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&layout=compact&langs_count=7&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
