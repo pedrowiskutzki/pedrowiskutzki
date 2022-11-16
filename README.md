@@ -3,9 +3,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=414a4c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Wiskutzki;I%27m+24+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<img alt="Coding" width="350"
+  src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif">
+  </div>
+  
   <p align="left"> <a href="www.linkedin.com/in/pedro-wiskutzki" target="blank"><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="PedroWiskutzki" /></a> </p>
-<div>
+<div j>
+  
 - 🔭 I'm currently studying
 
 - 🌱 I’m currently learning **DevOps**
@@ -13,11 +18,6 @@
 - 💬 Ask me about **react , MEARN**
 
 - 📫 How to reach me **wiskutzki@gmail.com**
-
-
-<img alt="Coding" width="350px"
-  src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif">
-  </div>
 
 
 <div align="center">
