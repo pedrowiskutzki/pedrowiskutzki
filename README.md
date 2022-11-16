@@ -7,9 +7,9 @@
   src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif">
   </div>
   
-  <p align="left"> <a href="www.linkedin.com/in/pedro-wiskutzki" target="blank"><img
+  <p align="left"> <a href="www.linkedin.com/in/pedro-wiskutzki"><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="PedroWiskutzki" /></a> </p>
-<div j>
+<div>
   
 - 🔭 I'm currently studying
 
