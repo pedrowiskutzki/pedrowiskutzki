@@ -37,8 +37,8 @@
  <div>
     <div  justify-content="row">
   <a href="https://github.com/pedrowiskutzki">
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&count_private=false&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/> 
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&layout=compact&langs_count=7&include_all_commits=true&count_private=true"/>
+    <img  height="190em" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&count_private=false&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/> 
+    <img  height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&layout=compact&langs_count=7&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
