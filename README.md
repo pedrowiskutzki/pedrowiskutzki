@@ -13,9 +13,9 @@
   
 - 🔭 I'm currently studying
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **react , MEARN**
+- 💬 Ask me about **java , MEARN**
 
 - 📫 How to reach me **wiskutzki@gmail.com**
 
@@ -33,7 +33,7 @@
 <img  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60" alt="figma" />
 <img src="https://icongr.am/devicon/git-original.svg?size=60&color=currentColor alt="spring"git"/>
 </div>
-
+  </br>
  <div>
     <div  justify-content="row">
   <a href="https://github.com/pedrowiskutzki">
