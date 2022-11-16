@@ -23,16 +23,16 @@
 <div align="center">
   </br>
 <h2>Tecnologias</h2>
-<img src="https://icongr.am/devicon/java-original.svg?size=60&color=currentColor" alt="java"/>
-<img src="https://icongr.am/devicon/cplusplus-original.svg?size=60&color=currentColor alt="C++""/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60 "/>
-<img src="https://icongr.am/devicon/html5-original.svg?size=60&color=currentColor alt="spring"html"/>
-<img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=60&color=currentColor alt="spring"css"/>
-<img src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor alt="spring"Java Script"/>
-<img src="https://icongr.am/devicon/react-original-wordmark.svg?size=60&color=currentColor alt="spring"react"/>
-<img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=60&color=currentColor alt="postgres""/>
-<img  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60" alt="figma" />
-<img src="https://icongr.am/devicon/git-original.svg?size=60&color=currentColor alt="spring"git"/>
+<img src="https://icongr.am/devicon/java-original.svg?size=50&color=currentColor" alt="java"/>
+<img src="https://icongr.am/devicon/cplusplus-original.svg?size=50&color=currentColor alt="C++""/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50 "/>
+<img src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor alt="spring"html"/>
+<img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor alt="spring"css"/>
+<img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor alt="spring"Java Script"/>
+<img src="https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor alt="spring"react"/>
+<img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=currentColor alt="postgres""/>
+<img  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" alt="figma" />
+<img src="https://icongr.am/devicon/git-original.svg?size=50&color=currentColor alt="spring"git"/>
 </div>
   </br>
  <div>
@@ -62,31 +62,31 @@
     </a>
   </p>
    <a href="https://www.binance.com/pt-BR">
-      <img height="50" src="assets/crypto/BNB.png" loading="lazy"/>
+      <img height="50" width="50" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png" loading="lazy"/>
     </a>
     <a href="https://www.algorand.com/">
-      <img height="50" src="assets/crypto/ALGO.png" loading="lazy"/>
+      <imgheight="50" width="50" src="https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png" loading="lazy"/>
     </a>
     <a href="https://crypto.com/">
-      <img height="50" src="assets/crypto/CRO.png" loading="lazy"/> 
+      <img height="50" width="50" src="https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png" loading="lazy"/> 
     </a>
     <a href="https://api3.org/">
       <img height="50" width="50" src="https://s2.coinmarketcap.com/static/img/coins/64x64/7737.png" loading="lazy"/>
     </a>
-    <a href="https://fantom.foundation/">
-      <img height="50" src="assets/crypto/FTM.png" loading="lazy"/>
+    <a href="https://nabox.io/">
+      <img height="50" width="50" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9653.png" loading="lazy"/>
     </a>
     <a href="https://solana.com/">
-      <img height="50" src="assets/crypto/SOL.png" loading="lazy"/>
+      <img height="50" width="50" src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" loading="lazy"/>
     </a>
     <a href="https://tether.to/en/">
-      <img height="50" src="assets/crypto/USDT.png" loading="lazy"/>
+      <img height="50" width="50" src="https://s2.coinmarketcap.com/static/img/coins/64x64/825.png" loading="lazy"/>
     </a>
    <a href="https://polygon.technology/">
-      <img height="50" src="assets/crypto/MATIC.png" loading="lazy"/>
+      <img height="50" width="50" src="https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png" loading="lazy"/>
     </a>
    <a href="https://www.avax.network/">
-      <img height="50" src="assets/crypto/AVAX.png" loading="lazy"/>
+      <img height="50" width="50" src="https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png" loading="lazy"/>
     </a>
 </div>
 <br>
