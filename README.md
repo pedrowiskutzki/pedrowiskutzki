@@ -58,7 +58,7 @@
 <div align="center">
   <p>
     <a href="https://coinmarketcap.com/">
-      <h1>My Cryptos</h1>
+      <h2>My Cryptos</h2>
     </a>
   </p>
    <a href="https://www.binance.com/pt-BR">
