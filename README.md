@@ -14,7 +14,10 @@
 
 - 📫 How to reach me **wiskutzki@gmail.com**
 
-
+<div>
+<img align="right" alt="Coding" width="350px"
+  src="https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif">
+  </div>
 
  <div>
   <p>
