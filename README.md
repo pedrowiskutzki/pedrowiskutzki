@@ -32,7 +32,7 @@
 
 <div align="center">
 <h2>Tecnologias</h2>
-<img src="https://icongr.am/devicon/java-original.svg?size=40&color=currentColor"/>
+<img src="https://icongr.am/devicon/java-original.svg?size=60&color=currentColor"/>
 </div>
 
 <div width="100%" align="center" >
