@@ -3,8 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=414a4c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Wiskutzki;I%27m+24+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-  <p align="left"> <a href="" target="blank"><img
-      src="https://img.shields.io/instagram/follow/PedroWiskutzki?logo=instagram&style=for-the-badge" alt="PedroWiskutzki" /></a> </p>
+  <p align="left"> <a href="www.linkedin.com/in/pedro-wiskutzki" target="blank"><img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="PedroWiskutzki" /></a> </p>
 <div>
 - 🔭 I'm currently studying
 
@@ -38,9 +38,7 @@
     <div  justify-content="row">
   <a href="https://github.com/pedrowiskutzki">
     <img width="42%" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&count_private=false&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/> 
-     <img width="42%" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&theme=blue-green"/> 
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=blue-green"/>
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
