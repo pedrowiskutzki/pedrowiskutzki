@@ -34,8 +34,8 @@
 <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=currentColor alt="postgres""/>
 <img  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" alt="figma" />
 <img src="https://icongr.am/devicon/git-original.svg?size=50&color=currentColor alt="spring"git"/>
-<img src="https://icongr.am/devicon/illustrator-plain.svg?size=50&color=currentColor alt="spring"Adobe Ilustrator"/>
-<img src="https://icongr.am/devicon/photoshop-plain.svg?size=50&color=currentColor alt="spring"photoshop"/>
+<img src="https://icongr.am/devicon/illustrator-line.svg?size=50&color=e27228 alt="spring"Adobe Ilustrator"/>
+<img src="https://icongr.am/devicon/photoshop-plain.svg?size=50&color=464be2 alt="spring"photoshop"/>
 </div>
   </br>
  <div>
