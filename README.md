@@ -29,10 +29,13 @@
 <img src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor alt="spring"html"/>
 <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor alt="spring"css"/>
 <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor alt="spring"Java Script"/>
+<img src="https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor alt="spring"Typescript"/>
 <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor alt="spring"react"/>
 <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=currentColor alt="postgres""/>
 <img  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" alt="figma" />
 <img src="https://icongr.am/devicon/git-original.svg?size=50&color=currentColor alt="spring"git"/>
+<img src="https://icongr.am/devicon/illustrator-plain.svg?size=50&color=currentColor alt="spring"Adobe Ilustrator"/>
+<img src="https://icongr.am/devicon/photoshop-plain.svg?size=50&color=currentColor alt="spring"photoshop"/>
 </div>
   </br>
  <div>
