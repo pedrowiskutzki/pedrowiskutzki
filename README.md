@@ -15,10 +15,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **java , MEARN**
+- 💬 Look at my <a href="https://pedro-wiskutzki-a288fxh72-pedrowiskutzki.vercel.app/">Portifolio</a>
 
-  - 📫 How to reach me <a href="https://pedro-wiskutzki-a288fxh72-pedrowiskutzki.vercel.app/">Portifolio</a>
-
+  - 📫 How to reach me **wiskutzki@gmail.com**
 
 <div align="center">
   </br>
