@@ -20,7 +20,7 @@
 
 <div align="center">
   </br>
-<h2 color="#622081">Tecnologias</h2>
+<h2 color="622081">Tecnologias</h2>
 <img src="https://icongr.am/devicon/java-original.svg?size=50&color=currentColor" alt="java"/>
 <img src="https://icongr.am/devicon/cplusplus-original.svg?size=50&color=currentColor alt="C++""/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50 "/>
@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-<h2 color="#622081">Minhas redes socias para contato</h2>
+<h2 color="622081">Minhas redes socias para contato</h2>
 </div>
 
 <div align="center" style="display: inline-block">
@@ -56,7 +56,7 @@
 <div align="center">
   <p>
     <a href="https://coinmarketcap.com/">
-      <h2 color="#622081">My Cryptos</h2>
+      <h2 color="622081">My Cryptos</h2>
     </a>
   </p>
    <a href="https://www.binance.com/pt-BR">
