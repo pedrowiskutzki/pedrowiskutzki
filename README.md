@@ -36,14 +36,11 @@
 <img src="https://icongr.am/devicon/photoshop-plain.svg?size=50&color=464be2 alt="spring"photoshop"/>
 </div>
   </br>
- <div>
-    <div align-itens=center  justify-content="row">
-  <a href="https://github.com/pedrowiskutzki">
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&count_private=false&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/> 
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&theme=tokyonight&layout=compact&langs_count=7&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrowiskutzki&show_icons=true&count_private=true&hide_border=true&title_color=622081&icon_color=622081&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Wiskutzki github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowiskutzki&layout=compact&hide_border=true&title_color=622081&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 <div align="center">
 <h2>Minhas redes socias para contato</h2>
